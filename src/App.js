@@ -11,7 +11,7 @@ function App() {
           </a>
         </div>
         <div>
-          <a href='/cart'>Carts</a>
+          <a href='/cart'>Cartss</a>
           <a href='/signin'>Sign In</a>
         </div>
       </header>
